@@ -2,7 +2,7 @@
 
 ## GENERAL INFO
 
-The goal of this project is to create a copy of the '[SOKOBAN]'(https://fr.wikipedia.org/wiki/Sokoban) game in terminal mode, using the ncurces library.
+The goal of this project is to create a copy of the [SOKOBAN](https://fr.wikipedia.org/wiki/Sokoban) game in terminal mode, using the ncurces library.
 
 If all boxes are on storage locations, the player wins and the program must return 0.
 
@@ -19,5 +19,7 @@ The game must be able to be played with the arrow keys
 A valid map can only contains the characters SPACE,
 ‘\n’, ‘#’, ‘X’, ‘O’ and ‘P’.
 If an invalid map is supplied, the program must exit with an error
+
+## USAGE
 
 ![USAGE](usage.png)
