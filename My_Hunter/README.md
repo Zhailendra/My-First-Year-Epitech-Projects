@@ -15,7 +15,7 @@ develop basic games.
 
 ## AUTHORIZED FUNCTIONS
 
-from the C library :
+#### From the C library
 * malloc
 * free
 * memset
@@ -28,7 +28,7 @@ from the C library :
 * (f)close
 * getline
 
-#### from the CSFML library
+#### From the CSFML library
 All functions
-#### from the math library
+#### From the math library
 All functions
